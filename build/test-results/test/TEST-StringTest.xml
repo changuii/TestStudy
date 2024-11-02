@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-02T04:07:47" hostname="ichang-uiui-MacBookAir.local" time="0.028">
+  <properties/>
+  <testcase name="문자열을_구분자로_분리하면_정확히_분리되는지_검증()" classname="StringTest" time="0.025"/>
+  <testcase name="단일_문자열을_분리하면_정확히_해당_문자만_존재하는지_검증()" classname="StringTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
