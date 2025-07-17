@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parameterized.MethodSourceTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.013">
+  <properties/>
+  <testcase name="[1] 2" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[2] 4" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[3] 6" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[4] 8" classname="parameterized.MethodSourceTest" time="0.001"/>
+  <testcase name="[5] 10" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[6] 12" classname="parameterized.MethodSourceTest" time="0.001"/>
+  <testcase name="[7] 14" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[8] 10" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[9] 20" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[10] 30" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[11] 50" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[1] 2" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[2] 4" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[3] 6" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[4] 8" classname="parameterized.MethodSourceTest" time="0.001"/>
+  <testcase name="[5] 10" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[6] 12" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[7] 14" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[1] [1]" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[2] [2, 1]" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[3] [5, 1, 2, 3, 4]" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[4] [10, 1, 2, 3, 4, 5, 6, 7, 8, 9]" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[1] 10, 10" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[2] 20, 20" classname="parameterized.MethodSourceTest" time="0.001"/>
+  <testcase name="[3] 30, 30" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <testcase name="[4] 50, 50" classname="parameterized.MethodSourceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parameterized.EnumSourceTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.012">
+  <properties/>
+  <testcase name="[1] JANUARY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[2] FEBRUARY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[3] MARCH" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[4] APRIL" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[5] MAY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[6] JUNE" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[7] JULY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[8] AUGUST" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[9] SEPTEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[10] OCTOBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[11] NOVEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[12] DECEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[1] SEPTEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[2] OCTOBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[3] NOVEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[4] DECEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[1] APRIL" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[2] JUNE" classname="parameterized.EnumSourceTest" time="0.001"/>
+  <testcase name="[3] SEPTEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[4] NOVEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[1] JANUARY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[2] MARCH" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[3] MAY" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[4] JULY" classname="parameterized.EnumSourceTest" time="0.001"/>
+  <testcase name="[5] AUGUST" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[6] OCTOBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <testcase name="[7] DECEMBER" classname="parameterized.EnumSourceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

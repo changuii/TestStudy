@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parameterized.ArgumentConversionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.006">
+  <properties/>
+  <testcase name="[1] A" classname="parameterized.ArgumentConversionTest" time="0.001"/>
+  <testcase name="[2] B" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <testcase name="[3] C" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <testcase name="[4] D" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <testcase name="[5] E" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <testcase name="[6] F" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <testcase name="[1] 2018/12/25, 2018" classname="parameterized.ArgumentConversionTest" time="0.001"/>
+  <testcase name="[2] 2019/02/11, 2019" classname="parameterized.ArgumentConversionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

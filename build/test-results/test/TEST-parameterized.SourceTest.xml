@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parameterized.SourceTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.011">
+  <properties/>
+  <testcase name="[1] []" classname="parameterized.SourceTest" time="0.001"/>
+  <testcase name="[1] null" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[1] null" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[2] " classname="parameterized.SourceTest" time="0.001"/>
+  <testcase name="[3]  " classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[4]   " classname="parameterized.SourceTest" time="0.001"/>
+  <testcase name="[5] &#9;" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[6] &#10;" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[1] null" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[2] " classname="parameterized.SourceTest" time="0.001"/>
+  <testcase name="[1] 1" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[2] 2" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[3] 3" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[4] 4" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[5] 5" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[6] 6" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[7] 7" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[8] 8" classname="parameterized.SourceTest" time="0.0"/>
+  <testcase name="[9] 9" classname="parameterized.SourceTest" time="0.001"/>
+  <testcase name="[10] 10" classname="parameterized.SourceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

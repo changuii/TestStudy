@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="format.DecimalFormatTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.002">
+  <properties/>
+  <testcase name="0 기호 사용" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name="우테코 미션에 적용할 패턴" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name="% 기호" classname="format.DecimalFormatTest" time="0.001"/>
+  <testcase name="% 연산" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name="# 기호 사용" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name=". 기호" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name=", 기호" classname="format.DecimalFormatTest" time="0.0"/>
+  <testcase name="- 기호" classname="format.DecimalFormatTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

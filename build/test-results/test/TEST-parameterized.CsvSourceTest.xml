@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parameterized.CsvSourceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.005">
+  <properties/>
+  <testcase name="[1] asd, ASD" classname="parameterized.CsvSourceTest" time="0.001"/>
+  <testcase name="[2] qwe, QWE" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[3] apple, APPLE" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[1] test, TEST" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[2] asd, ASD" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[1] test, TEST" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[2] asd, ASD" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[3] qWe, QWE" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <testcase name="[4] xyz, XYZ" classname="parameterized.CsvSourceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

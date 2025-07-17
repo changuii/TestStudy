@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-02T04:07:47" hostname="ichang-uiui-MacBookAir.local" time="0.028">
+<testsuite name="StringTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-07-17T03:47:51" hostname="ichang-uiui-MacBookAir.local" time="0.007">
   <properties/>
-  <testcase name="문자열을_구분자로_분리하면_정확히_분리되는지_검증()" classname="StringTest" time="0.025"/>
+  <testcase name="문자열을_구분자로_분리하면_정확히_분리되는지_검증()" classname="StringTest" time="0.003"/>
   <testcase name="단일_문자열을_분리하면_정확히_해당_문자만_존재하는지_검증()" classname="StringTest" time="0.001"/>
+  <testcase name="문자열에서_특정_문자를_추출할때_문자열_범위를_벗어나면_예외가_발생한다()" classname="StringTest" time="0.001"/>
+  <testcase name="문자열에서_특정_문자_추출_테스트()" classname="StringTest" time="0.001"/>
+  <testcase name="문자열_자르기__테스트()" classname="StringTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
