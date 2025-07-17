@@ -7,8 +7,8 @@ on:
       - backend
 
 jobs:
-  build: # job 이름은 'test'나 'ci' 등 더 명확하게 변경하는 것을 권장합니다.
-    runs-on: ubuntu-latest # 우분투 최신 버전
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: read
 
@@ -23,8 +23,7 @@ jobs:
         distribution: 'temurin'
 
     - name: Setup Gradle
-      uses: gradle/actions/setup-gradle@v8.14.2
+      uses: gradle/actions/setup-gradle@v2
 
     - name: Run Gradle Test
       run: ./gradlew clean test
-      working-directory: src
