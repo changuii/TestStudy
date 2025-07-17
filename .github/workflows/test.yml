@@ -24,3 +24,4 @@ jobs:
 
     - name: Run Gradle Test
       run: ./gradlew clean test
+      working-directory: src
