@@ -33,6 +33,7 @@ jobs:
 
       - name: Run Gradle Test
         run: ./gradlew clean test
+        working-directory: backend
 
       - name: Comment on PR (Success)
         if: success()
